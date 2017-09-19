@@ -8,12 +8,9 @@ import uuid
 """
 短信业务调用接口示例，版本号：v20170525
 
-Created on 2017-06-12
+Created on 2017-09-19
 
 """
-
-# reload(sys)
-# sys.setdefaultencoding('utf8')
 
 REGION = "cn-hangzhou"
 # ACCESS_KEY_ID/ACCESS_KEY_SECRET 根据实际申请的账号信息进行替换
