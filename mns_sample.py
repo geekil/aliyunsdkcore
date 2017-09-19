@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 import sys
-from libs.sms.aliyunsdkcore  import SendSmsRequest
-from libs.sms.aliyunsdkcore import QuerySendDetailsRequest
-from libs.sms.aliyunsdkcore.client import AcsClient
+from . import SendSmsRequest
+from . import QuerySendDetailsRequest
+from .client import AcsClient
 import uuid
 
 """
