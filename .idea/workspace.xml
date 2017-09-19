@@ -11,11 +11,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="mns_sample.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mns_sample.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mns_sample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+            <state relative-caret-position="288">
+              <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="endpoints.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/endpoints.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-486">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,8 +70,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="125" />
-    <option name="y" value="158" />
+    <option name="x" value="31" />
+    <option name="y" value="68" />
     <option name="width" value="1629" />
     <option name="height" value="951" />
   </component>
@@ -130,7 +140,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="125" y="158" width="1629" height="951" extended-state="0" />
+    <frame x="31" y="68" width="1629" height="951" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24952741" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -186,14 +196,6 @@
           <folding>
             <element signature="e#807#816#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/endpoints.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -421,8 +423,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mns_sample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+        <state relative-caret-position="288">
+          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/endpoints.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
