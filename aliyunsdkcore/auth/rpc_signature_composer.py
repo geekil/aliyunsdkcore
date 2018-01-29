@@ -67,7 +67,7 @@ def __compose_string_to_sign(method, queries):
 
 
 def __get_signature(string_to_sign, secret, signer=mac1):
-    return signer.get_sign_string(string_to_sign, secret + b'&')
+    return signer.get_sign_string(string_to_sign, secret + '&')
 
 
 def get_signed_url(params, ak, secret, accept_format, method, signer=mac1):
