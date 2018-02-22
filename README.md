@@ -3,7 +3,7 @@
 主要修改为Python2转Python3时不兼容包的替换。
 
 # Requirements
-- Python (2.7, 3.3, 3.4, 3.5, 3.6)
+- Python (3.3, 3.4, 3.5, 3.6)
 
 # Installation
 ```python
