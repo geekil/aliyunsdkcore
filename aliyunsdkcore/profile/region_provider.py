@@ -127,8 +127,8 @@ def convert_dict_to_endpointsxml(mdict):
     content += '</RegionIds>\n'+'<Products>\n'
     for item in products:
         content += '<Product>\n'
-        content += '<ProductName>'+item.keys()[0]+'</ProductName>\n'
-        content += '<DomainName>'+item[item.keys()[0]]+'</DomainName>\n'
+        content += '<ProductName>'+list(item.keys())[0]+'</ProductName>\n'
+        content += '<DomainName>'+item[list(item.keys())[0]]+'</DomainName>\n'
         content += '</Product>\n'
     content += '</Products>'
     content += endfix
