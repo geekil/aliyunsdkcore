@@ -1,13 +1,16 @@
 # 阿里云python sdk文档地址
 [阿里云python sdk最新文档地址](https://help.aliyun.com/zh/sdk/developer-reference/v2-python-integrated-sdk?spm=a2c4g.11186623.0.0.3c15795et8ipN5)
 
-阿里将sdk接入分为特化调用和泛化调用，特化调用安装安装地址为：
+阿里将sdk接入分为特化调用和泛化调用，特化调用安装地址为：
+
 ```pip install alibabacloud_dysmsapi20170525==2.0.24```,
 
 泛化地址为：
+
 ```pip install alibabacloud-tea-openapi```
  
 ---
+# Deprecated
 
 目前阿里云好像官方出了aliyun-python-sdk-core-v3的Python3的支持包，地址是[https://pypi.org/project/aliyun-python-sdk-core-v3/](https://pypi.org/project/aliyun-python-sdk-core-v3/),经过测试可以正常发送短信，所以推荐大家安装这个新的包。[官方文档](https://help.aliyun.com/document_detail/55491.html?spm=a2c4g.11186623.6.570.dfgplP)
 
